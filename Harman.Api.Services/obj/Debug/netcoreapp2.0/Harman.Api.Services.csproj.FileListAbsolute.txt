@@ -1,0 +1,16 @@
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Api.Services\bin\Debug\netcoreapp2.0\Harman.Api.Services.deps.json
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Api.Services\bin\Debug\netcoreapp2.0\Harman.Api.Services.runtimeconfig.json
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Api.Services\bin\Debug\netcoreapp2.0\Harman.Api.Services.runtimeconfig.dev.json
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Api.Services\bin\Debug\netcoreapp2.0\Harman.Api.Services.dll
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Api.Services\bin\Debug\netcoreapp2.0\Harman.Api.Services.pdb
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Api.Services\obj\Debug\netcoreapp2.0\Harman.Api.Services.csprojResolveAssemblyReference.cache
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Api.Services\obj\Debug\netcoreapp2.0\Harman.Api.Services.csproj.CoreCompileInputs.cache
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Api.Services\obj\Debug\netcoreapp2.0\Harman.Api.Services.AssemblyInfoInputs.cache
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Api.Services\obj\Debug\netcoreapp2.0\Harman.Api.Services.AssemblyInfo.cs
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Api.Services\obj\Debug\netcoreapp2.0\Harman.Api.Services.dll
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Api.Services\obj\Debug\netcoreapp2.0\Harman.Api.Services.pdb
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Api.Services\bin\Debug\netcoreapp2.0\Harman.Business.dll
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Api.Services\bin\Debug\netcoreapp2.0\Harman.Data.Entity.dll
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Api.Services\bin\Debug\netcoreapp2.0\Harman.Business.pdb
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Api.Services\bin\Debug\netcoreapp2.0\Harman.Data.Entity.pdb
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Api.Services\obj\Debug\netcoreapp2.0\Harman.Api.Services.csproj.CopyComplete
